@@ -1,7 +1,13 @@
-# Jesujuwon Egbewale — MIT 8103
+# Hospital / Clinic System
 
-Student ID: 301897346
+Jesujuwon Egbewale · Student ID 301897346
 
-Hospital / Clinic System
+The portfolio uses fictional records for Hospital / Clinic System.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Egbewale_Jesujuwon_301897346_FinalSummary.md) · [PDF](Egbewale_Jesujuwon_301897346_FinalSummary.pdf)
